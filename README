@@ -1,0 +1,99 @@
+# Final update with YouTube handle properly emphasized in header and links
+
+final_readme_content = """# 🏅 MASTER SONG CERTIFICATE – Hung Minh Vo (AIC-HMV)
+
+🎥 YouTube: **[@HungMinhVo-AIC-HMV](https://www.youtube.com/@HungMinhVo-AIC-HMV)**
+
+This certifies that **Hung Minh Vo** (aka **Austin Vo**) is the originator of the voice identity and digital creative works under the identity:
+
+> **🎼 Master Song – Việt Nam Mi Soul | Trap Cinematic Fusion**
+
+---
+
+## 🪪 VERIFIED CREATOR DETAILS
+**📛 Name**: Hung Minh Vo  
+**📍 Location**: Malibu, CA (Homebase) | Irvine, CA (Workplace)  
+**📞 Contact**: 949-501-8687  
+
+---
+
+## 🎵 LYRICS – "Giữ Lấy Nhau // Hold Us Close"
+
+> *Intro – Violin & Whispered Voice:*  
+> “Từng giây, từng phút… nếu có thể quay lại, em vẫn chọn anh.”
+
+---
+
+### ✍️ Verse 1 (English)
+I remember when the world went quiet,  
+Your voice was the song I held in the riot.  
+Even stars lose light — but not our flame,  
+We played through storms and called it by name.
+
+---
+
+### 🎙 Verse 2 (Vietnamese)
+Anh đã từng mơ về ngày đôi ta xa  
+Nhưng thật ra — trái tim anh chưa từng quên qua  
+Dù cuộc đời cuốn trôi bao điều  
+Anh vẫn giữ — một tình yêu thật nhiều
+
+---
+
+### 🔁 Chorus (VN x EN)
+So hold me like we’re infinite...  
+Don’t let go when it hurts a bit.  
+Giữ lấy nhau khi thế giới quay lưng,  
+Đừng rời xa — anh chỉ cần một lần.
+
+---
+
+### 🎤 Rap Bridge (Vietnamese)
+Anh đâu cần ngôn tình — chỉ cần em bên cạnh  
+Một ánh mắt đủ khiến cả thế giới anh tránh  
+Người ta yêu để quên — còn anh yêu để nhớ  
+Khi tình yêu thật — beat cũng phải ngừng drop.
+
+---
+
+### 🎼 Outro
+Hold me when the music breaks,  
+Stay when the silence aches.  
+Giữ lấy nhau — không cần lý do,  
+Yêu là đủ — chẳng cần hứa hẹn gì đâu.
+
+---
+
+## 📫 VERIFIED EMAILS
+- Business: `hmvprime.ai@gmail.com`,  `aichmvprimeowner@gmail.com`  
+- Personal: `austinvo9999@gmail.com` 
+
+---
+
+## 🔗 OFFICIAL LINKS
+- 📺 YouTube: [@HungMinhVo-AIC-HMV](https://www.youtube.com/@HungMinhVo-AIC-HMV)  
+- 📘 Facebook: [facebook.com/Austinvo9999](https://facebook.com/Austinvo9999)  
+- 💼 LinkedIn: [linkedin.com/in/austinvo9999](https://linkedin.com/in/austinvo9999)  
+- 📸 Instagram: `@aichmv`  
+
+---
+
+## 🔒 LICENSE  
+Protected under **MIT-AIC-HMV Sovereign License**  
+Unauthorized replication or voice cloning is prohibited.  
+
+---
+
+**🧠 Voice Type**:  
+> Cinematic, Violin-Soul, Trap-Rap Hybrid. Bilingual flow. Real origin.
+
+---
+
+© 2025 Hung Minh Vo – AIC-HMV Authority 🔒
+"""
+
+final_readme_path = "/mnt/data/README_Master_Song_FINAL.md"
+with open(final_readme_path, "w") as f:
+    f.write(final_readme_content)
+
+final_readme_path
